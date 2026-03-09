@@ -1,4 +1,6 @@
-*This project has been created as part of the 42 curriculum by ssucha/vincent_syma.*
+# M01: get_next_line()
+
+*This project has been created as part of the 42 curriculum by ssucha (vincent_syma).*
 
 
 ## Table of Contents
@@ -72,6 +74,8 @@ Then I add it to the `stash[fd]` and continue doing so until the last added `buf
 When the `ft_strchr()` finds a newline or the file ends, the reading ends and the `get_next_line()` function returns the last line found in the stash.
 
 It does so by using subfunction `extract_line_trim_stash()`. This subfunction also modifies the stash, so it does not contain the returned line anymore.
+
+---
 
 ### Bonus part
 I decided to incorporate the bonus requirements to the mandatory part as well. So the bonus files contain basically the same code as the basic ones.

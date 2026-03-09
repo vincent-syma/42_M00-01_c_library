@@ -1,13 +1,15 @@
-*This library has been created as part of the 42 curriculum by ssucha/vincent_syma.*
+# 42 Library (M00-M01)
+
+*This library has been created as part of the 42 curriculum by ssucha (vincent_syma).*
 
 
 ## Table of Contents
 - [Description](#description)
 - [Instructions](#instructions)
 - [Contents](#contents)
-	- [Libft](#libft)
-	- [ft_printf](#ft_printf)
-	- [get_next_line](#get_next_line)
+	- [libft](#m00-libft)
+	- [ft_printf](#m01-ft_printf)
+	- [get_next_line](#m01-get_next_line)
 	- [My own additions](#my-own-additions)
 
 ---
@@ -40,7 +42,7 @@ To use the functions from the library in your own project, add this include in y
 
 ## Contents
 
-### Libft
+### M00: libft
 [BONUS VERSION]
 
 My takes on public library functions:
@@ -107,7 +109,7 @@ t_list		*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *));
 
 ---
 
-### ft_printf()
+### M01: ft_printf()
 
 [BONUS VERSION]
 
@@ -137,7 +139,7 @@ It was tough, but I am really proud at myself and I learned so much from that. :
 
 ---
 
-### get_next_line()
+### M01: get_next_line()
 [BONUS VERSION]
 
 A function that returns a line read from a file descriptor.
