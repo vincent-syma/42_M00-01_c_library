@@ -1,8 +1,5 @@
 # M01: get_next_line()
 
-*This project has been created as part of the 42 curriculum by ssucha (vincent_syma).*
-
-
 ## Table of Contents
 - [Description](#description)
 - [Algorithm](#algorithm)
@@ -83,3 +80,15 @@ I decided to incorporate the bonus requirements to the mandatory part as well. S
 I used only 1 static variable stash from the beginning and added multiple fd option as a small variation in the end.
 
 In the first version I worked only with `static char *stash`, whereas in the final I changed it to `static char *stash[MAX_FD]` - array, where each `fd` has its own `stash[fd]`. Since each fd is unique, each `stash[fd]` is unique as well.
+
+---
+
+## 👤 Author
+
+**Simona Sucha**
+*(AKA ssucha or vincent_syma)* <br>
+Python & C · Developer, Software Tester · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>

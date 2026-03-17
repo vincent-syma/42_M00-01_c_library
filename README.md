@@ -1,8 +1,5 @@
 # 42 Library (M00-M01)
 
-*This library has been created as part of the 42 curriculum by ssucha (vincent_syma).*
-
-
 ## Table of Contents
 - [Description](#description)
 - [Instructions](#instructions)
@@ -178,3 +175,15 @@ int		ft_sqrt(int nb);
 void	ft_strtoupper(char *s);
 void	ft_strtolower(char *s);
 ```
+
+---
+
+## 👤 Author
+
+**Simona Sucha**
+*(AKA ssucha or vincent_syma)* <br>
+Python & C · Developer, Software Tester · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>

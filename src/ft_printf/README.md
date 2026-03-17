@@ -1,8 +1,5 @@
 # M01: ft_printf()
 
-*This project has been created as part of the 42 curriculum by ssucha (vincent_syma).*
-
-
 ## Table of Contents
 - [Description](#description)
 - [My code](#my-code)
@@ -82,3 +79,15 @@ The **printing part** was the tricky one. I found out that I have to count lengt
 So I created another structure `format_info`, in which I stored different types of input values (`long val_signed`; `unsigned long val_unsigned`; `char char_val`; `char *str_val`), its length (`int len_content`) and length of all the paddings (`int len_prefix`; `int len_zero`; `int spaces`).
 
 Then one by one I print it and count the number of printed characters.
+
+---
+
+## 👤 Author
+
+**Simona Sucha**
+*(AKA ssucha or vincent_syma)* <br>
+Python & C · Developer, Software Tester · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>
