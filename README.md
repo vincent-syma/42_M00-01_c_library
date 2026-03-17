@@ -1,4 +1,4 @@
-# 42 Library (M00-M01)
+# 42_M00-M01 Library
 
 ## Table of Contents
 - [Description](#description)
@@ -181,7 +181,7 @@ void	ft_strtolower(char *s);
 ## 👤 Author
 
 **Simona Sucha**
-*(AKA ssucha or vincent_syma)* <br>
+*(also known as ssucha or vincent_syma)* <br>
 Python & C · Developer, Software Tester · 42 student
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>

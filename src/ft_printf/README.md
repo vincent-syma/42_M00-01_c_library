@@ -1,4 +1,4 @@
-# M01: ft_printf()
+# 42_M01: ft_printf()
 
 ## Table of Contents
 - [Description](#description)
@@ -12,7 +12,7 @@ ___
 
 ## Description
 
-The goal of this project was to recode the `printf()` function from libc.
+The goal of this 42 project was to recode the `printf()` function from libc.
 ```c
 int	ft_printf(const char *, ...)
 ```
@@ -85,7 +85,7 @@ Then one by one I print it and count the number of printed characters.
 ## 👤 Author
 
 **Simona Sucha**
-*(AKA ssucha or vincent_syma)* <br>
+*(also known as ssucha or vincent_syma)* <br>
 Python & C · Developer, Software Tester · 42 student
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>

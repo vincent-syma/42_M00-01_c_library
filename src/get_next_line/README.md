@@ -1,4 +1,4 @@
-# M01: get_next_line()
+# 42_M01: get_next_line()
 
 ## Table of Contents
 - [Description](#description)
@@ -11,7 +11,7 @@ ___
 
 ## Description
 
-The goal of this project was to write a function that returns a line read from a
+The goal of this 42 project was to write a function that returns a line read from a
 file descriptor.
 ```c
 char *get_next_line(int fd);
@@ -86,7 +86,7 @@ In the first version I worked only with `static char *stash`, whereas in the fin
 ## 👤 Author
 
 **Simona Sucha**
-*(AKA ssucha or vincent_syma)* <br>
+*(also known as ssucha or vincent_syma)* <br>
 Python & C · Developer, Software Tester · 42 student
 
 🖥️ GitHub: https://github.com/vincent-syma/ <br>
