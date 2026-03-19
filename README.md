@@ -1,4 +1,4 @@
-# 42_M00-M01 Library
+# 42_M00-M01 C Library
 
 ## Table of Contents
 - [Description](#description)
@@ -13,12 +13,12 @@
 
 ## Description
 
-This library is a result of 3 of 42 school projects:
+This C library is a result of 3 of 42 school projects:
 1. `libft`
 2. `ft_printf`
 3. `get_next_line`
 
-The goal was to recode some of the well known and used public libraries functions as well as some others. More detailed info below and in their own Readme files.
+The goal was to recode some of the well known and used public C libraries functions as well as some others. More detailed info below and in their own Readme files.
 
 ---
 
@@ -42,7 +42,7 @@ To use the functions from the library in your own project, add this include in y
 ### M00: libft
 [BONUS VERSION]
 
-My takes on public library functions:
+My takes on public C library functions:
 
 ```c
 int			ft_isalpha(int c);
@@ -70,7 +70,7 @@ size_t		ft_strlcat(char *dst, const char *src, size_t dsize);
 size_t		ft_strlcpy(char *dst, const char *src, size_t dsize);
 
 ```
-Not library functions:
+Not public C library functions:
 ```c
 char		*ft_itoa(int n);
 void		ft_putchar_fd(char c, int fd);
